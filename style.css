@@ -1,0 +1,32 @@
+body
+{
+    font-family: 'Dancing Script', cursive;
+    background-color: rgb(181, 181, 181);
+}
+#Start
+{
+    height: 50px;
+    width: 80px;
+    font-size: 20px;
+}
+
+#footer
+{
+    position: fixed;
+    background-color: rgb(223, 225, 234);
+    bottom: 0%;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(197, 195, 199);
+    font-size: 25px;
+    width: 100%;  
+       
+        
+}
+#heading
+{
+width: 100%;
+background-color: grey;
+border-radius: 15pxpx;
+padding-top: 5px;
+color: black;
+}
